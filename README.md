@@ -1,0 +1,2 @@
+# Student-Management-System
+Java-based desktop application built using the Swing framework.
